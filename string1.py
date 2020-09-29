@@ -16,7 +16,8 @@
 # are some additional functions to try in string2.py.
 
 
-# A. donuts ok ahhh
+# A. donuts ok ahhh TestBranchGIT  
+
 # Given an int count of a number of donuts, return a string
 # of the form 'Number of donuts: <count>', where <count> is the number
 # passed in. However, if the count is 10 or more, then use the word 'many'
